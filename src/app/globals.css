@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-50: #f0f7ff;
+  --color-primary-100: #dfeeff;
+  --color-primary-200: #b8dbff;
+  --color-primary-300: #79bfff;
+  --color-primary-400: #3a9fff;
+  --color-primary-500: #0a7cff;
+  --color-primary-600: #005fd4;
+  --color-primary-700: #004bab;
+  --color-primary-800: #00408d;
+  --color-primary-900: #063874;
+
+  --color-accent-50: #fdf4f3;
+  --color-accent-100: #fce8e6;
+  --color-accent-200: #f9d4d1;
+  --color-accent-300: #f3b2ab;
+  --color-accent-400: #ea8478;
+  --color-accent-500: #de5d4f;
+  --color-accent-600: #ca4232;
+  --color-accent-700: #a93526;
+  --color-accent-800: #8d3024;
+  --color-accent-900: #762e24;
+
+  --color-surface-50: #f8f8f8;
+  --color-surface-100: #f0f0f0;
+  --color-surface-200: #e4e4e4;
+  --color-surface-300: #d1d1d1;
+  --color-surface-400: #b4b4b4;
+  --color-surface-500: #9a9a9a;
+  --color-surface-600: #818181;
+  --color-surface-700: #6a6a6a;
+  --color-surface-800: #5a5a5a;
+  --color-surface-900: #4e4e4e;
+  --color-surface-950: #282828;
+}
+
+body {
+  font-family:
+    "Pretendard Variable",
+    Pretendard,
+    -apple-system,
+    BlinkMacSystemFont,
+    system-ui,
+    Roboto,
+    "Helvetica Neue",
+    "Segoe UI",
+    "Apple SD Gothic Neo",
+    "Noto Sans KR",
+    "Malgun Gothic",
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Segoe UI Symbol",
+    sans-serif;
+}
